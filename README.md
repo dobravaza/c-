@@ -1,5 +1,4 @@
-# c-
-Almost 50 simple programms in c++
+#c++ exercises
 
 
 Zadanie 1. Liczby losowe.
